@@ -55,7 +55,7 @@ A feature-rich Python desktop application built with Tkinter for generating secu
 3. Run the application:
 
    ```bash
-   python secure_passgen_full.py
+   python secure_passgen.py
    ```
 
 ---
