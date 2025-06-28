@@ -1,0 +1,5 @@
+key.key
+passwords.enc
+__pycache__/
+*.pyc
+.vscode/
